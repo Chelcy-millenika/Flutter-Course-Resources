@@ -1,5 +1,7 @@
 # Flutter-Course-Resources
 
+This repository focuses to contain the necessary flutter course recources at one place to help the community as a whole.
+
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
 
 * [Download the Course Syllabus](https://drive.google.com/uc?export=download&id=1itL9AXx7Z-RxFAjSLLhsTeTFZYrkfweR)
